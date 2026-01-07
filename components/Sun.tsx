@@ -2,11 +2,13 @@
 export default function Sun() {
   return (
     <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-      
-      <div className="absolute w-[300px] h-[300px] rounded-full bg-yellow-400 blur-3xl opacity-15 " />
+    
+      <div className="absolute w-[200px] h-[200px] bg-amber-600 rounded-full blur-3xl "
+      />
 
- 
-      <div className="relative w-[140px] h-[140px] rounded-full bg-gradient-to-br from-yellow-200 via-orange-400 to-red-500 shadow-2xl" />
+      <div className="w-[180px] h-[180px] bg-gradient-to-br from bg-amber-200 via bg-amber-400 to bg-red-500 rounded-full"/>
+  
     </div>
   );
 }
+
