@@ -11,7 +11,7 @@ interface ShootingStar {
   id: number;
 }
 
-interface ShootingstarsProps {
+interface ShootingstarsProps  {
   stars?: ShootingStar[];
 }
 
