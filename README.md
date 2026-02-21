@@ -39,11 +39,8 @@ cd interactive-solar-system
 npm install  
 npm run dev  
 
-<<<<<<< HEAD
+
 Open http://localhost:3000 in your browser.
 
 
 
-=======
-Open http://localhost:3000 in your browser.
->>>>>>> 65b580e (update readme)
