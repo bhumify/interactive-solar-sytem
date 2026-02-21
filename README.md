@@ -31,6 +31,9 @@ This project includes animated planets, stars, shooting stars, the sun, and the 
 - Sun and moon
 - Responsive design
 
+## Live Demo
+Check out the live version here: [Interactive Solar System](https://interactive-solar-system-lohb-jzfzou770.vercel.app)
+
 📦 Run Locally
 
 git clone https://github.com/bhumify/interactive-solar-system.git  
